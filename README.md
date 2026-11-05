@@ -1,3 +1,5 @@
+![Romario Quispe Anchaise · Ingeniería de datos · Python, SQL y ETL](./github-banner.svg)
+
 # Romario Quispe Anchaise
 
 Estudiante de Ingeniería de Sistemas en la Universidad Continental, con enfoque en ingeniería de datos. Actualmente profundizo en Python, SQL, modelado de datos y procesos ETL.
