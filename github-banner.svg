@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Romario Quispe Anchaise</title>
+  <desc id="desc">Ingeniería de datos. Python, SQL y ETL.</desc>
+  <rect width="1200" height="300" rx="20" fill="#101b29"/>
+  <path d="M76 81v138" stroke="#64cbb8" stroke-width="4" stroke-linecap="round"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="108" y="105" fill="#83d9c8" font-size="19" font-weight="600" letter-spacing="4">INGENIERÍA DE DATOS</text>
+    <text x="104" y="168" fill="#f3f7fb" font-size="58" font-weight="650">Romario Quispe Anchaise</text>
+    <text x="108" y="213" fill="#b5c6d6" font-size="24" letter-spacing="1">Python · SQL · ETL</text>
+  </g>
+  <g fill="none" stroke="#406978" stroke-width="2">
+    <path d="M887 116h74l50 34h107M887 184h74l50-34"/>
+    <path d="M1011 150v-52h68M1011 150v52h68" opacity=".55"/>
+  </g>
+  <g fill="#64cbb8">
+    <circle cx="887" cy="116" r="5"/><circle cx="887" cy="184" r="5"/>
+    <circle cx="1011" cy="150" r="7"/><circle cx="1118" cy="150" r="5"/>
+    <circle cx="1079" cy="98" r="4"/><circle cx="1079" cy="202" r="4"/>
+  </g>
+</svg>
