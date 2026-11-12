@@ -9,4 +9,4 @@ Estudiante de Ingeniería de Sistemas en la Universidad Continental, con enfoque
 - **[Happy Dog](https://github.com/romario-anchaise/Happy_Dog)** · Sistema de gestión veterinaria para citas, historiales clínicos e inventario. Usa PostgreSQL, Prisma, NestJS y Vue.
 - **[Parqueo Inteligente](https://github.com/romario-anchaise/parqueo-inteligente)** · Prototipo con Arduino y Raspberry Pi que detecta vehículos, registra eventos en CSV y muestra el estado del estacionamiento en un panel web local.
 
-[LinkedIn](https://www.linkedin.com/in/guedson-romario-quispe-anchaise-44365736a/)
+[LinkedIn](https://www.linkedin.com/in/romario-anchaise-44365736a/)
