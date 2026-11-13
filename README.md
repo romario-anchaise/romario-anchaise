@@ -12,7 +12,7 @@ Estudiante de Ingeniería de Sistemas en la Universidad Continental, con enfoque
 [LinkedIn](https://www.linkedin.com/in/romario-anchaise-44365736a/)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg" />
-  <img alt="Gusano azul animado de mis contribuciones en GitHub" src="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg?v=2" />
+  <img alt="Gusano animado de mis contribuciones en GitHub" src="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg?v=2" />
 </picture>
