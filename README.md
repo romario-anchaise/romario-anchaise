@@ -10,3 +10,9 @@ Estudiante de Ingeniería de Sistemas en la Universidad Continental, con enfoque
 - **[Parqueo Inteligente](https://github.com/romario-anchaise/parqueo-inteligente)** · Prototipo con Arduino y Raspberry Pi que detecta vehículos, registra eventos en CSV y muestra el estado del estacionamiento en un panel web local.
 
 [LinkedIn](https://www.linkedin.com/in/romario-anchaise-44365736a/)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg" />
+  <img alt="Gusano azul animado de mis contribuciones en GitHub" src="https://raw.githubusercontent.com/romario-anchaise/romario-anchaise/output/github-snake.svg" />
+</picture>
