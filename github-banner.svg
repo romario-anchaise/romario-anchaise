@@ -1,20 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Romario Quispe Anchaise</title>
-  <desc id="desc">Ingeniería de datos. Python, SQL y ETL.</desc>
-  <rect width="1200" height="300" rx="20" fill="#101b29"/>
-  <path d="M76 81v138" stroke="#64cbb8" stroke-width="4" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Romario Quispe Anchaise — Ingeniería de Sistemas con enfoque en datos</title>
+  <desc id="desc">Portada azul noche con tipografía clara y un diagrama de origen, transformación y datos.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101B2A"/><stop offset="1" stop-color="#172D3D"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#8CB4C6" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="12" fill="url(#bg)"/>
+  <rect x="770" width="430" height="340" fill="url(#grid)"/>
+  <rect x="56" y="53" width="36" height="3" rx="1.5" fill="#78CCBC"/>
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="108" y="105" fill="#83d9c8" font-size="19" font-weight="600" letter-spacing="4">INGENIERÍA DE DATOS</text>
-    <text x="104" y="168" fill="#f3f7fb" font-size="58" font-weight="650">Romario Quispe Anchaise</text>
-    <text x="108" y="213" fill="#b5c6d6" font-size="24" letter-spacing="1">Python · SQL · ETL</text>
+    <text x="56" y="88" fill="#8ED5C7" font-size="14" font-weight="600" letter-spacing="2.5">INGENIERÍA DE SISTEMAS · ENFOQUE EN DATOS</text>
+    <text x="52" y="159" fill="#F3F6FA" font-size="53" font-weight="600" letter-spacing="-1">Romario Quispe</text>
+    <text x="53" y="218" fill="#F3F6FA" font-size="53" font-weight="600" letter-spacing="-1">Anchaise</text>
+    <text x="56" y="273" fill="#B4C4D2" font-size="18">Python / SQL / Modelado de datos / ETL</text>
+    <text x="56" y="311" fill="#8299AB" font-size="12" letter-spacing="1.8">APRENDER. CONSTRUIR. DOCUMENTAR.</text>
   </g>
-  <g fill="none" stroke="#406978" stroke-width="2">
-    <path d="M887 116h74l50 34h107M887 184h74l50-34"/>
-    <path d="M1011 150v-52h68M1011 150v52h68" opacity=".55"/>
+  <g stroke="#537C8B" stroke-width="1.5">
+    <path d="M820 133H872V176H914M820 219H872V176M978 176H1030"/>
+    <rect x="788" y="114" width="32" height="38" rx="5" fill="#162A3B"/>
+    <rect x="788" y="200" width="32" height="38" rx="5" fill="#162A3B"/>
+    <rect x="914" y="144" width="64" height="64" rx="12" fill="#1A3944" stroke="#78CCBC"/>
+    <rect x="1030" y="144" width="64" height="64" rx="12" fill="#162A3B"/>
+    <path d="M798 126H810M798 133H810M798 140H806M798 212H810M798 219H810M798 226H806"/>
+    <path d="m933 165 11 11-11 11m15 0h12" stroke="#A5E2D6" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M1048 190V177M1062 190V163M1076 190V170" stroke="#A5E2D6" stroke-width="4" stroke-linecap="round"/>
   </g>
-  <g fill="#64cbb8">
-    <circle cx="887" cy="116" r="5"/><circle cx="887" cy="184" r="5"/>
-    <circle cx="1011" cy="150" r="7"/><circle cx="1118" cy="150" r="5"/>
-    <circle cx="1079" cy="98" r="4"/><circle cx="1079" cy="202" r="4"/>
+  <circle cx="872" cy="176" r="4" fill="#78CCBC"/>
+  <g fill="#91A9BA" font-family="Segoe UI, Arial, sans-serif" font-size="11" letter-spacing="1.4" text-anchor="middle">
+    <text x="804" y="272">ORIGEN</text><text x="946" y="272">PROCESO</text><text x="1062" y="272">DATOS</text>
   </g>
 </svg>
